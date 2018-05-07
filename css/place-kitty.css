@@ -24,7 +24,7 @@
 
 /*__write_selector_here__*/ 
 
-#basket > "kitty 3" {
+#basket img {
   position: absolute;
   z-index: 5;
   top: 291px;
