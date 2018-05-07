@@ -24,7 +24,7 @@
 
 /*__write_selector_here__*/ 
 
-#basket > "kitty 3" {
+#basket img {
   position: absolute;
   z-index: 5;
   top: 291px;
@@ -35,7 +35,7 @@
 
 /*__write_selector_here__*/ 
 
-#ball ~"kitty 4"{
+#ball + img {
   position: absolute;
   z-index: 4;
   top: 260px;
@@ -46,7 +46,7 @@
 
 /*__write_selector_here__*/ 
 
-img["kitty 5"]{
+imge[class="kitty 5"]{
   position: absolute;
   z-index: 3;
   top: 217px;
