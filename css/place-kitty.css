@@ -46,6 +46,7 @@
 
 /*__write_selector_here__*/ 
 
+imge[class*="kitty 5"]
 img["kitty 5"]{
   position: absolute;
   z-index: 3;
